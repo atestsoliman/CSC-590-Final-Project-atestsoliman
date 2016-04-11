@@ -1,2 +1,16 @@
 # CSC-590-Final-Project-atestsoliman
-A repository for the  final project. Name and description TBD
+
+## Build Steps
+
+Run the following commands (requires the gulp-cli to be globally installed):
+
+```
+npm install
+gulp
+```
+
+## Start the local dev server
+
+```
+npm start
+```

@@ -1,0 +1,19 @@
+{
+  "name": "my-project-name",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atestsoliman/CSC-590-Final-Project-atestsoliman.git"
+  },
+  "author": "Ali Soliman",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/atestsoliman/CSC-590-Final-Project-atestsoliman/issues"
+  },
+  "homepage": "https://github.com/atestsoliman/CSC-590-Final-Project-atestsoliman#readme"
+}
